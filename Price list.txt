@@ -8,4 +8,8 @@
 8 - Placa de vídeo         | 3270$
 9 - Curso da Udemy         | 194$
 10- Talco                  | 20$
+<<<<<<< HEAD
 11- Lâmpadas novas         | 280$
+=======
+11- Lâmpadas novas         | 280$
+>>>>>>> origin
